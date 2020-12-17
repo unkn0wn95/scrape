@@ -1,4 +1,7 @@
 #Scrape the all link by href in website page
+#To Download with youtube-dl :
+#	youtube-dl --external-downloader aria2c -o "%(autonumber)s.%(title)s.%(ext)s" -a file.txt
+
 
 from bs4 import BeautifulSoup, SoupStrainer
 import requests
