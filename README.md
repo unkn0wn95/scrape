@@ -1,6 +1,2 @@
-# Scraper
-All created scraper to use
-```
-RedditScraper
-WebsiteScraper
-```
+# Scrape
+All information about scrape
